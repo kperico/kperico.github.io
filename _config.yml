@@ -35,7 +35,7 @@ owner:
   name: Pablo Molina
   avatar: bio-photo.jpg
   email: pablo.molinacandel@gmail.com
-  disqus-shortname:
+  disqus-shortname: pablico
   twitter: lapenya
   facebook: #username
   github: #username
@@ -51,3 +51,5 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
+
+comments: true
