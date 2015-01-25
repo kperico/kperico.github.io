@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Myself
+title: me
 #excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2015-01-01T10:44:38.564948
 #image:
