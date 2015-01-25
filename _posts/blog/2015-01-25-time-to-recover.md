@@ -10,7 +10,7 @@ image:
 date: 2015-01-25T11:10:23
 ---
 
-When it comes to your website availability, you can be sure about something: there will be some downtime! Once you've invested your efforts on avoiding failures by setting up reliable systems, redundancy, failovers and backups, you'll need to focus on **time to recovery**.
+When it comes to your website availability, you can be sure about something: there will be downtime! Once you've invested your efforts on avoiding failures by setting up reliable systems, redundancy, failovers and backups, you'll need to focus on **time to recovery**.
 
 By automating failover systems and monitoring main sites, after some minutes of key errors raising -need some time to deal with false positives-, your visitors traffic will fall back to redundant systems. Make sure those are ready to deal with real traffic, and you'll be minutes away to recover from any disaster.
 
