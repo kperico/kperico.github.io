@@ -6,6 +6,7 @@ categories: blog
 excerpt:
 tags: [operations]
 share: true
+comments: true
 image:
   feature:
 date: 2015-01-25T11:10:23
